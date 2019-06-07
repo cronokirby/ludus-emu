@@ -54,7 +54,7 @@ In addition, Esc closes the window, and Enter resets the console.
 - PPU, and thus graphics
 - APU, and thus audio
 - Basic controls via hardwired key mapping
-- Mappers 0 and 2, so common games like Super Mario Bros, and Donkey Kong
+- Mappers 0, 1, 2, so common games like Super Mario Bros, and Donkey Kong
 
 ### Not Working
 - Save States of any kind
